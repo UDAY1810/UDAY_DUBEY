@@ -1,79 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Uday Dubey;Aspiring+Software+Developer+from+India;DSA+%7C+MERN+Stack+%7C+Data+Analysis;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+# 💫 Hi 👋, I'm Uday Dubey
+**A passionate Software Developer**
 
-<h1 align="center">Hi 👋, I'm Uday Dubey</h1>
-<h3 align="center">Aspiring Software Developer | Passionate about DSA, Web Dev & Competitive programming</h3>
+Email Me 👉 ✉️ **mrdubey7717@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=PriyaCHaudhary28&label=Profile%20views&color=0e75b6&style=flat" alt="PriyaCHaudhary28" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PriyaCHaudhary28" alt="PriyaCHaudhary28" />
-  </a> 
-</p>
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** JAVA / SpringBoot
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_udaydubey1810_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-dubey10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrdubey7717@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 👩‍💻 About Me
-- 🌱 Currently diving deeper into **DSA**, **MERN Stack**.
-- 💡 Love building cool projects and solving real-world problems with **Python**
-- 💬 Ask me about anything related to **DSA**, **JavaScript**, or **MongoDB**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/uday-dubey10/)
+<!-- Snake Game Repo View -->
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-### 🛠️ Technologies & Tools I Use
-<p align="left">
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Data%20Analysis-pandas-orange?style=for-the-badge&logo=pandas&logoColor=white"/> -->
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UDAY1810&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UDAY1810&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY1810&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UDAY1810&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UDAY1810&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=UDAY1810&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats (2025)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UDAY1810&show_icons=true&theme=tokyonight" alt="Priya's GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UDAY1810&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY1810&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-
-
-### 📌 Featured Projects
-Here are some of my favorite or most active repositories:
-- 🔥 [PMS](https://github.com/UDAY1810/property-pulse-master) — Full-stack Property-listings app with MERN
-- 👥 [Task Manager](https://github.com/UDAY1810/Task-manager-main) — Real-time task manager  tool
-<!-- - 🌐 [DevConnector](https://github.com/PriyaChaudhary/DevConnector) — Developer social media project -->
-
-> *(Replace the above links with your actual repos if needed)*
-
----
-
-### 🌐 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/uday-dubey10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
-
-### ✨ Fun Stickers Just Because!
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/3o6ZsU0aBx3Vd2yY4Q/giphy.gif" width="200"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
